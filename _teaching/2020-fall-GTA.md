@@ -1,6 +1,6 @@
 ---
 title: "2020 Fall"
-collection: GTA
+collection: teaching
 type: "Calculus I Lab"
 permalink: /teaching/2020-fall-GTA
 venue: "Missouri University of Science and Technology, Mathematics and Statistics"
