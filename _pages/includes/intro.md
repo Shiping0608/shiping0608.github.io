@@ -2,4 +2,4 @@ Welcome! I am a graduate student in the [Department of Mathematics and Statistic
 
 
 
-My research interests including modeling and simulation of nonlocal models.
+My research focuses on the modeling and simulation of nonlocal models. Including apply finite difference methods and spectral methods for solving nonlocal PDEs. Recently, we're working on data-driven modeling for solving time-dependent nonlocal PDEs.
