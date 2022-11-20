@@ -26,3 +26,7 @@ redirect_from:
 <span class='anchor' id='talks'></span>
 
 {% include_relative includes/talks.md %}
+
+<span class='anchor' id='cv'></span>
+
+{% include_relative include/cv.md %}
