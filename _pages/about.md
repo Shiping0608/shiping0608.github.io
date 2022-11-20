@@ -28,5 +28,4 @@ redirect_from:
 {% include_relative includes/talks.md %}
 
 <span class='anchor' id='cv'></span>
-
-{% include_relative include/cv.md %}
+{% include_relative includes/cv.md %}
