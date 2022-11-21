@@ -3,7 +3,7 @@ permalink: /
 title: "CV"
 author_profile: true
 redirect_from: 
-  - /resume
+  - /cv.html
 ---
 
 {% include_relative cv.md %}
