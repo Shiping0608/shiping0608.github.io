@@ -1,4 +1,4 @@
-Welcome! I am a graduate student in the [Department of Mathematics and Statistics](https://math.mst.edu/).
+Welcome! I am a Ph.D. student in the [Department of Mathematics and Statistics](https://math.mst.edu/) at [Missouri University of Science and Technology](https://www.mst.edu/).
 
 
 
