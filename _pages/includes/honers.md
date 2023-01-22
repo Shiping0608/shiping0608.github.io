@@ -1,4 +1,5 @@
 # 🎖 Awards
+- *2023* Graduate Education Travel Fund, Missouri University of Science and Technology
 - *2022* Paul W. Eloe Graduate Research Award, Missouri University of Science and Technology
 - *2022* Nonlocal School of Fractional Equations NSFE Travel Award
 - *2022* Mathematics and Statistics Alumni Endowed Scholarship, Missouri University of Science and Technology
