@@ -15,6 +15,10 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
+<span class='anchor' id='academia'></span>
+
+{% include_relative includes/academia.md %}
+
 <span class='anchor' id='awards'></span>
 
 {% include_relative includes/honers.md %}
