@@ -18,4 +18,4 @@
 
   Mentor: [Dr. Olena Burkovska](https://csmd.ornl.gov/profile/olena-burkovska)
 
-  Exploring the utilization of neural networks for solving inverse problems, with a particular focus on learning the nonlocal kernels directly from data.
+  Project: Machine learning of nonlocal kernels
