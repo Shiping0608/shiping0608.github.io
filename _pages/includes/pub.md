@@ -2,9 +2,9 @@
 # 📝 Publications 
 1. Rational spectral methods for the spatial fractional viscoacoustic wave equations, S. Zhou, Y. Wu, and Y. Zhang, in preparation (2023).
 
-1. Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, S. Zhou, Y. Li, and Y. Zhang, to be submitted (September, 2023).
+1. Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, S. Zhou, Y. Li, and Y. Zhang, to be submitted (November, 2023).
 
-1. Fast finite difference methods for variable-order fractional Laplacian, S. Zhou, and Y. Zhang, to be submitted (September, 2023).
+1. Fast finite difference methods for variable-order fractional Laplacian, S. Zhou, and Y. Zhang, to be submitted (November, 2023).
 
 1. Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, S. Zhou, and Y. Zhang, preprint (2023).
 
