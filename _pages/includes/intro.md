@@ -4,5 +4,5 @@ Welcome! I am a Ph.D. student majoring in **Computational and Applied Mathematic
 
 My research primarily centers on two main areas:
 
-1. **Nonlocal problems**: This encompasses the development of accurate and efficient numerical schemes for solving nonlocal problems. Applications of these models including various fields such as geophysics, science, and materials.
-2. **Data-driven modeling**: In this area, I explore the applications of neural network techniques to address forward problems that are challenging for traditional methods. Additionally, I employ surrogate models to tackle inverse problems effectively.
+1. **Nonlocal problems**: This encompasses the development of accurate and efficient numerical schemes for solving nonlocal problems. Applications of these models including various fields such as wave propagation in heterogeneous media in geophysics, anomalous diffusion in biology, and dark matter in cosmology. 
+2. **Data-driven modeling**: In this area, I utilize neural network techniques to solve time-dependent classical and nonlocal PDEs. I explore using machine learning to learn the nonlocal kernels and their applications in material science.
