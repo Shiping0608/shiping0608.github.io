@@ -1,18 +1,18 @@
 
 # 📝 Publications 
-1. Rational spectral methods for the spatial fractional viscoacoustic wave equations, **S. Zhou**, Y. Wu, and Y. Zhang, in preparation (2023).
+1. Rational spectral methods for the spatial fractional viscoacoustic wave equations, **S. Zhou**, Y. Wu, and Y. Zhang, in preparation (2024).
 
-1. A hybrid approach to learning the nonlocal kernels, **S. Zhou**, O. Burkovska, and Y. Zhang, in preparation (2023).
+1. A hybrid approach to learning the nonlocal kernels, **S. Zhou**, O. Burkovska, and Y. Zhang, in preparation (2024).
 
-1. A novel spectral method for the time-dependent Schrödinger-Poisson equation, **S. Zhou**, C. Trenchea, and Y. Zhang, in preparation (2023).
+1. A novel spectral method for the time-dependent Schrödinger-Poisson equation, **S. Zhou**, C. Trenchea, and Y. Zhang, in preparation (2024).
 
-1. Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, **S. Zhou**, Y. Li, and Y. Zhang, to be submitted (November, 2023).
+1. Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, **S. Zhou**, Y. Li, and Y. Zhang, to be submitted (January, 2024).
 
-1. Fast finite difference methods for variable-order fractional Laplacian, **S. Zhou**, and Y. Zhang, to be submitted (November, 2023).
+1. Fast finite difference methods for variable-order fractional Laplacian, **S. Zhou**, and Y. Zhang, to be submitted (January, 2024).
 
 1. Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, **S. Zhou**, and Y. Zhang, preprint (2023).
 
-1. Fourier pseudospectral methods for the spatial variable-order fractional wave equations, **S. Zhou**, X. Zhao, and Y. Zhang, (2023), submitted.
+1. Fourier pseudospectral methods for the spatial variable-order fractional wave equations, **S. Zhou**, X. Zhao, and Y. Zhang, (2023), submitted. [arXiv][https://arxiv.org/abs/2311.13049]
 
 1. A novel spectral method for space-fractional PDEs with the fractional Laplacians, **S. Zhou** and Y. Zhang, (2023), submitted. [arXiv](https://arxiv.org/abs/2311.07814)
 
