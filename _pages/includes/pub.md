@@ -19,5 +19,3 @@
 1. Weak Galerkin Finite Element Method with Second-order accuracy in time for parabolic problems, **S. Zhou**, F. Gao, B. Li, and Z. Sun, Appl. Math. Lett., 90(2019), pp.118-123. [Paper](https://www.sciencedirect.com/science/article/pii/S089396591830363X)<strong><span class='show_paper_citations' data='KrL6YuoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
    
-
-[https://arxiv.org/abs/2311.13049]: 
