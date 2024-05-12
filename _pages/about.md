@@ -15,9 +15,9 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
-<span class='anchor' id='academia'></span>
+<!-- <span class='anchor' id='academia'></span>
 
-{% include_relative includes/academia.md %}
+{% include_relative includes/academia.md %} -->
 
 <span class='anchor' id='awards'></span>
 
