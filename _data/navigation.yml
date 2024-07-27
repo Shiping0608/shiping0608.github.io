@@ -6,8 +6,8 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Academic Experience"
-    url: "/#academia"
+  #- title: "Academic Experience"
+  #  url: "/#academia"
 
   - title: "Awards"
     url: "/#awards"
