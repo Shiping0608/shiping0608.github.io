@@ -34,5 +34,3 @@ redirect_from:
 <span class='anchor' id='teaching'></span>
 
 {% include_relative includes/teaching.md %}
-
-[CV](/cv/)
