@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiping Zhou \n (周世平)"
   avatar           : "images/selfie.png"
-  bio              : "Missouri University of Science and Technology"
-  location         : "Rolla, MO, USA"
+  bio              : "Michigan State University"
+  location         : "East Lansing, MI, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KrL6YuoAAAAJ"
-  email            : "szb5g@mst.edu"
+  email            : "zhouship@msu.edu"
   researchgate     : # "https://www.researchgate.net/profile/Shiping-Zhou-3"
   uri              :
   bitbucket        :
