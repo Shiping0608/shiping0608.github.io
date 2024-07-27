@@ -1,4 +1,8 @@
-Welcome! I am a Ph.D. student majoring in **Computational and Applied Mathematics** in the [Department of Mathematics and Statistics](https://math.mst.edu/) at [Missouri University of Science and Technology](https://www.mst.edu/) under the supervision of [Prof. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/), and will be graduating in May 2024.
+Welcome! I am **Shiping Zhou**. Starting from August 2024, I will be a postdoctoral research associate in the Department of Computational Mathematics, Science and Engineering ([CMSE](https://cmse.msu.edu)), under the supervision of [Dr. Andrew Christlieb](https://directory.natsci.msu.edu/Directory/Profiles/Person/101537), at Michigan State University ([MSU](https://msu.edu/)).
+
+
+
+Before joining MSU, I received my Ph.D. in the [Department of Mathematics and Statistics](https://math.mst.edu/) at [Missouri University of Science and Technology](https://www.mst.edu/) in May 2024, under the guidance of [Dr. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/).
 
 
 
