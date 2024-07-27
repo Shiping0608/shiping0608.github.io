@@ -7,6 +7,6 @@ redirect_from:
   - /cv.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='cv'></span>
 {% include_relative includes/cv.md %}
 
