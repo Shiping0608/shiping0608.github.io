@@ -1,6 +1,5 @@
 
 # 📝 Publications
-
 1. Moment-enhanced shallow water equations for non-slip boundary conditions, **S. Zhou**, J. Huang, and A. J. Christlieb, [submitted](https://arxiv.org/abs/2506.14785) (2025).
 
 2. Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs, Y. Wang, **S. Zhou**, and Y. Zhang, [Comput. Methods Appl. Mech. Eng.](https://www.sciencedirect.com/science/article/pii/S0045782525003561), 444 (2025), pp. 118084.
