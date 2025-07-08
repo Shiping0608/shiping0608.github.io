@@ -5,7 +5,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-# 👨🏻‍🏫 Teaching
+# Teaching
 **Missouri University of Science and Technology**
 
 - **Instructor** (Spring 2023)
