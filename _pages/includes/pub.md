@@ -12,7 +12,7 @@
 
 6. Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, **S. Zhou**, and Y. Zhang, preprint (2023).
 
-7. Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, **S. Zhou**, [under revision](https://arxiv.org/abs/2311.13049), (2023).
+7. Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, **S. Zhou**, [accepted](https://arxiv.org/abs/2311.13049), (2025).
 
 8. A novel spectral method for space-fractional PDEs with the fractional Laplacians, **S. Zhou** and Y. Zhang, [Comput. Math. Appl.](https://www.sciencedirect.com/science/article/pii/S0898122124002621), 168 (2024), pp.133--147.
 
