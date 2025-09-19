@@ -2,23 +2,23 @@
 # 📝 Publications
 
 <ol reversed>
-<li>Nonlocal modeling of spatial fractional diffusion with truncated interaction domains and truncated kernel function singularity, **S. Zhou**, Y. Zhang, M. Gunzburger, submitted (2025).
+<li>Nonlocal modeling of spatial fractional diffusion with truncated interaction domains and truncated kernel function singularity, <b>S. Zhou<b>, Y. Zhang, M. Gunzburger, submitted (2025).</li>
 
-<li>Moment-enhanced shallow water equations for non-slip boundary conditions, **S. Zhou**, J. Huang, and A. J. Christlieb, [submitted](https://arxiv.org/abs/2506.14785) (2025).
+<li>Moment-enhanced shallow water equations for non-slip boundary conditions, <b>S. Zhou<b>, J. Huang, and A. J. Christlieb, [submitted](https://arxiv.org/abs/2506.14785) (2025).</li>
 
-<li>Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs, Y. Wang, **S. Zhou**, and Y. Zhang, [Comput. Methods Appl. Mech. Eng.](https://www.sciencedirect.com/science/article/pii/S0045782525003561), 444 (2025), pp. 118084.
+<li>Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs, Y. Wang, <b>S. Zhou<b>, and Y. Zhang, [Comput. Methods Appl. Mech. Eng.](https://www.sciencedirect.com/science/article/pii/S0045782525003561), 444 (2025), pp. 118084.</li>
 
-<li>Fast finite difference methods for variable-order fractional Laplacian, **S. Zhou**, and Y. Zhang, to be submitted (2024).
+<li>Fast finite difference methods for variable-order fractional Laplacian, <b>S. Zhou<b>, and Y. Zhang, to be submitted (2024).</li>
 
-<li>Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, **S. Zhou**, Y. Li, and Y. Zhang, to be submitted (2024).
+<li>Data-driven approach for the solutions of time-dependent PDEs using convolutional neural network, <b>S. Zhou<b>, Y. Li, and Y. Zhang, to be submitted (2024).</li>
 
-<li>Parametric model reduction with convolutional neural networks, Y. Wang, **S. Zhou**, and Y. Zhang, [Int. J. Numer. Anal. Mod.](https://www.math.ualberta.ca/ijnam/Volume-21-2024/No-5-24/2024-05-06.pdf), 21 (2024), pp. 716-738.
+<li>Parametric model reduction with convolutional neural networks, Y. Wang, <b>S. Zhou<b>, and Y. Zhang, [Int. J. Numer. Anal. Mod.](https://www.math.ualberta.ca/ijnam/Volume-21-2024/No-5-24/2024-05-06.pdf), 21 (2024), pp. 716-738.</li>
 
-<li>Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, **S. Zhou**, and Y. Zhang, preprint (2023).
+<li>Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, <b>S. Zhou<b>, and Y. Zhang, preprint (2023).</li>
 
-<li>Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, **S. Zhou**, [accepted](https://arxiv.org/abs/2311.13049), (2025).
+<li>Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, <b>S. Zhou<b>, [accepted](https://arxiv.org/abs/2311.13049), (2025).</li>
 
-<li>A novel spectral method for space-fractional PDEs with the fractional Laplacians, **S. Zhou** and Y. Zhang, [Comput. Math. Appl.](https://www.sciencedirect.com/science/article/pii/S0898122124002621), 168 (2024), pp.133--147.
+<li>A novel spectral method for space-fractional PDEs with the fractional Laplacians, <b>S. Zhou<b> and Y. Zhang, [Comput. Math. Appl.](https://www.sciencedirect.com/science/article/pii/S0898122124002621), 168 (2024), pp.133--147.</li>
 
-<li>Weak Galerkin Finite Element Method with Second-order accuracy in time for parabolic problems, **S. Zhou**, F. Gao, B. Li, and Z. Sun, [Appl. Math. Lett.](https://www.sciencedirect.com/science/article/pii/S089396591830363X), 90(2019), pp.118-123.
+<li>Weak Galerkin Finite Element Method with Second-order accuracy in time for parabolic problems, <b>S. Zhou<b>, F. Gao, B. Li, and Z. Sun, [Appl. Math. Lett.](https://www.sciencedirect.com/science/article/pii/S089396591830363X), 90(2019), pp.118-123.</li>
 </ol>
