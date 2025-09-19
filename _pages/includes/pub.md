@@ -4,7 +4,7 @@
 <ol reversed>
 <li>Nonlocal modeling of spatial fractional diffusion with truncated interaction domains and truncated kernel function singularity, <b>S. Zhou</b>, Y. Zhang, M. Gunzburger, submitted (2025).</li>
 
-<li>Moment-enhanced shallow water equations for non-slip boundary conditions, <b>S. Zhou</b>, J. Huang, and A. J. Christlieb, <a href="https://arxiv.org/abs/2506.14785">[submitted]</a> (2025).</li>
+<li>Moment-enhanced shallow water equations for non-slip boundary conditions, <b>S. Zhou</b>, J. Huang, and A. J. Christlieb, <a href="https://arxiv.org/abs/2506.14785">submitted</a> (2025).</li>
 
 <li>Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs, Y. Wang, <b>S. Zhou</b>, and Y. Zhang, <a href="https://www.sciencedirect.com/science/article/pii/S0045782525003561">Comput. Methods Appl. Mech. Eng.</a>, 444 (2025), pp. 118084.</li>
 
